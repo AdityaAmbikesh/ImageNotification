@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "235927468421",
+    "firebase_url": "https://androidbashfirebasepushn-4a34d.firebaseio.com",
+    "project_id": "androidbashfirebasepushn-4a34d",
+    "storage_bucket": "androidbashfirebasepushn-4a34d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235927468421:android:7f518c09301298c9",
+        "android_client_info": {
+          "package_name": "com.androidbash.androidbashfirebasepushnotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235927468421-d0v0uujfog9hmt2rqo1jbbvb1e8oa548.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "235927468421-d0v0uujfog9hmt2rqo1jbbvb1e8oa548.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCN8gXKd0mc-_btSN61bpMulA5BNbNKHI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
